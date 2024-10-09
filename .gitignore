@@ -26,3 +26,4 @@ Scripts/
 share/
 Lib/
 ##
+virtual/config.yaml
