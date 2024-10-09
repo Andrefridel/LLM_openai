@@ -50,7 +50,7 @@ Para visualizar o PDF, acesse [este link para a imagem da aplicacao](aplicacao.p
 ### Documentação Resumida: Módulo **Bank_Embedding**
 
 #### Descrição Geral
-O módulo **Bank_Embedding** é uma aplicação desenvolvida em Python que tem como objetivo gerenciar embeddings de textos , utilizando a API **OpenAI** para gerar embeddings e o serviço **Pinecone** para armazená-los e acessá-los. O módulo permite criar, inserir, atualizar, deletar e consultar embeddings de textos financeiros, além de calcular a similaridade entre esses textos para facilitar a análise e a busca de informações relevantes.
+O módulo **Bank_Embedding** é uma aplicação desenvolvida em Python que tem como objetivo gerenciar embeddings de textos , utilizando a API **OpenAI** para gerar embeddings e o serviço **Pinecone** para armazená-los e acessá-los. O módulo permite criar, inserir, atualizar, deletar e consultar embeddings , além de calcular a similaridade entre esses textos para facilitar a análise e a busca de informações relevantes.
 
 #### Funcionalidades
 1. **Criação de Índices no Pinecone**:
