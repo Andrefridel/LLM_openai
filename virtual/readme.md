@@ -37,7 +37,7 @@ O usuário interage com a interface via **sidebar** para selecionar a empresa, p
 
 
 ## Visualizar PDF
-Para visualizar o PDF, acesse [este link para o relatório](aplicacao.pdf).
+Para visualizar o PDF, acesse [este link para a imagem da aplicacao](aplicacao.pdf).
 
 
 
@@ -95,7 +95,7 @@ O módulo **Bank_Embedding** fornece uma solução eficiente para gerenciar e co
 
 
 ## Visualizar PDF
-Para visualizar o PDF, acesse [este link para o relatório](picone.pdf).
+Para visualizar o PDF, acesse [este link para a imagem do vectorstore](picone.pdf).
 
 --- 
 
