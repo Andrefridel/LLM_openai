@@ -93,6 +93,10 @@ O módulo **Bank_Embedding** é uma aplicação desenvolvida em Python que tem c
 #### Conclusão
 O módulo **Bank_Embedding** fornece uma solução eficiente para gerenciar e consultar embeddings financeiros, facilitando a análise de semelhança entre textos e a organização de grandes volumes de dados relacionados ao setor financeiro.
 
+
+## Visualizar PDF
+Para visualizar o PDF, acesse [este link para o relatório](picone.pdf).
+
 --- 
 
 Essa documentação apresenta uma visão geral e resumida do funcionamento do módulo **Bank_Embedding**, cobrindo seus principais componentes e fluxos de uso.
