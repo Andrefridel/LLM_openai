@@ -37,4 +37,6 @@ O usuário interage com a interface via **sidebar** para selecionar a empresa, p
 
 
 ## Visualizar PDF
-Para visualizar o PDF, acesse [este link para o relatório](virtual/aplicacao.pdf).
+Para visualizar o PDF, acesse [este link para o relatório](LLM_openai/virtual
+/aplicacao.pdf
+).
