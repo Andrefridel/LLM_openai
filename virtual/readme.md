@@ -91,7 +91,7 @@ O módulo **Bank_Embedding** é uma aplicação desenvolvida em Python que tem c
 6. **Cálculo de Similaridade**: A similaridade entre o embedding de uma consulta e os armazenados é calculada, e os resultados mais semelhantes são retornados.
 
 #### Conclusão
-O módulo **Bank_Embedding** fornece uma solução eficiente para gerenciar e consultar embeddings financeiros, facilitando a análise de semelhança entre textos e a organização de grandes volumes de dados relacionados ao setor financeiro.
+O módulo **Bank_Embedding** fornece uma solução eficiente para gerenciar e consultar embeddings , facilitando a análise de semelhança entre textos , a consulta , atualização e o delete dos mesmos.
 
 
 ## Visualizar PDF
