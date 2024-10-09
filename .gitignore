@@ -1,0 +1,27 @@
+# Ignorar ambientes virtuais
+venv/
+env/
+
+# Ignorar arquivos compilados
+__pycache__/
+*.py[cod]
+
+# Ignorar arquivos de configuração
+.env
+config.json
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de log
+*.log
+
+
+
+# Ignorar diretórios específicos
+etc/
+include/
+Scripts/
+share/
+Lib/
